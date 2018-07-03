@@ -5,7 +5,7 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 
 Reference: Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonomous UAV Navigation Using Reinforcement Learning. arXiv preprint arXiv:1801.05086.
 
-Platforms: ROS Kinetic, Gazebo, TUM ArDrone Autonomy
+Platforms and Packages: ROS Kinetic, Gazebo, TUM ArDrone Autonomy, TensorFLow, Numpy
 
 Project Video: https://www.youtube.com/watch?v=SDqPfhUeoCo
 
