@@ -7,6 +7,6 @@ Reference: Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonom
 
 Platforms: ROS Kinetic, Gazebo, TUM ArDrone Autonomy
 
-https://www.youtube.com/watch?v=SDqPfhUeoCo
+Project Video: https://www.youtube.com/watch?v=SDqPfhUeoCo
 
 
