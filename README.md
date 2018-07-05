@@ -9,4 +9,4 @@ Platforms and Packages: ROS Kinetic, Gazebo, TUM ArDrone Autonomy, TensorFLow, N
 
 Project Video: https://www.youtube.com/watch?v=SDqPfhUeoCo
 
-
+(2) DDPG.py : Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is for the continuous action domain. 
