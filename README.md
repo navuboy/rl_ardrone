@@ -4,7 +4,7 @@
 Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on PID+Q-Learning algorithm (Reinforcement Learning). The quadrotor maneuvers towards the goal point, along the uniform grid distribution in the simulation environment(discrete action space) based on the specified reward policy, backed by the simple position based PID controller.
 <p align= "center">
 <img src="drone_qlearning.gif/">
-<center>Q-Learning + PID control for autonomous navigation of Quadrotor(discrete action space).</center>
+<figcaption>Q-Learning + PID control for autonomous navigation of Quadrotor(discrete action space).</figcaption>
 </p>
 Reference: Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonomous UAV Navigation Using Reinforcement Learning. arXiv preprint arXiv:1801.05086.
 
