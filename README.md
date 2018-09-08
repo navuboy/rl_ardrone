@@ -9,7 +9,7 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 <img src="drone_qlearning.gif/">
 </p>
 
-Platforms and Packages: 
+**Platforms and Packages:** 
 - Ubuntu 16.04 
 - ROS Kinetic (http://wiki.ros.org/kinetic)
 - Gazebo 7 (http://gazebosim.org/)
