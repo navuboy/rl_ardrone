@@ -14,7 +14,7 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 - ROS Kinetic (http://wiki.ros.org/kinetic)
 - Gazebo 7 (http://gazebosim.org/)
 - ArDrone Autonomy ROS Package (https://github.com/AutonomyLab/ardrone_autonomy)
-- TensorFLow 1.1.0 (with GPU)
+- TensorFLow 1.1.0 (with GPU) (https://www.tensorflow.org/install/)
 - Python: 2.7
 
 **Reference:** Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonomous UAV Navigation Using Reinforcement Learning. arXiv preprint arXiv:1801.05086.
