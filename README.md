@@ -9,11 +9,11 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 <img src="drone_qlearning.gif/">
 </p>
 
-**Platforms and Packages:** 
+**Prerequisites:** 
 - Ubuntu 16.04 
 - ROS Kinetic (http://wiki.ros.org/kinetic)
 - Gazebo 7 (http://gazebosim.org/)
-- TUM ArDrone Autonomy
+- ArDrone Autonomy ROS Package (https://github.com/AutonomyLab/ardrone_autonomy)
 - TensorFLow 1.1.0 (with GPU)
 - Python: 2.7
 
