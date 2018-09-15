@@ -18,6 +18,7 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 - Python: 2.7
 
 **Reference:** Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonomous UAV Navigation Using Reinforcement Learning. arXiv preprint arXiv:1801.05086.
+
 **Project Video: https://goo.gl/zKNQdW**
 
 (2) *****DDPG.py***** : Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is applicable for continuous action-space domain. 
