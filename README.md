@@ -1,5 +1,5 @@
 # rl4uav - Reinforcement Learning for Autonomous navigation of UAV's (indoors) 
-(1) *****Q-Learning.py***** : Autonomous Navigation of UAV using Q-Learning (Reinforcement Learning). 
+## *****Q-Learning.py***** : Autonomous Navigation of UAV using Q-Learning (Reinforcement Learning). 
 - State: Discrete
 - Action: Discrete
 - Action space: 5x5 grid space.
@@ -21,4 +21,8 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 
 **Project Video: https://goo.gl/zKNQdW**
 
-(2) *****DDPG.py***** : Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is applicable for continuous action-space domain. 
+## DDPG.py 
+Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is applicable for continuous action-space domain. (Work in Progress)
+
+### Collaborator(s):
+**Arun Kumar**(https://github.com/ioarun)
