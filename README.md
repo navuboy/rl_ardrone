@@ -1,5 +1,6 @@
 # rl4uav - Reinforcement Learning for Autonomous navigation of UAV's (indoors) 
-## *****Q-Learning.py***** : Autonomous Navigation of UAV using Q-Learning (Reinforcement Learning). 
+## **Q-Learning.py** : 
+Autonomous Navigation of UAV using Q-Learning (Reinforcement Learning). 
 - State: Discrete
 - Action: Discrete
 - Action space: 5x5 grid space.
