@@ -26,4 +26,4 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is applicable for continuous action-space domain. (Work in Progress)
 
 ### Collaborator(s):
-**Arun Kumar**(https://github.com/ioarun)
+**<a href="https://github.com/ioarun">Arun Kumar</a>** 
