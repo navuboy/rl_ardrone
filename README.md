@@ -18,7 +18,7 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 - TensorFLow 1.1.0 (with GPU) (https://www.tensorflow.org/install/)
 - Python: 2.7
 
-**Reference:** Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonomous UAV Navigation Using Reinforcement Learning. arXiv preprint arXiv:1801.05086.
+**Reference:**  <a href="https://arxiv.org/abs/1801.05086">Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonomous UAV Navigation Using Reinforcement Learning.</a>
 
 **Project Video: https://goo.gl/zKNQdW**
 
