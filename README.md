@@ -20,6 +20,7 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 
 ### Reference:  
 Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. <a href="https://arxiv.org/abs/1801.05086"><b>Autonomous UAV Navigation Using Reinforcement Learning.</b></a>
+Mnih, Volodymyr, et al. <a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf"><b>Human-level control through deep reinforcement learning.</b></a> Nature 518.7540 (2015)
 
 **Project Video: https://goo.gl/zKNQdW**
 
