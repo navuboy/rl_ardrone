@@ -10,12 +10,12 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 <img src="drone_qlearning.gif/">
 </p>
 
-**Prerequisites:** 
-- Ubuntu 16.04 (http://releases.ubuntu.com/16.04/)
-- ROS Kinetic (http://wiki.ros.org/kinetic)
-- Gazebo 7 (http://gazebosim.org/)
-- ArDrone Autonomy ROS Package (https://github.com/AutonomyLab/ardrone_autonomy)
-- TensorFLow 1.1.0 (with GPU) (https://www.tensorflow.org/install/)
+**Prerequisites:**
+- <a href="http://releases.ubuntu.com/16.04/">Ubuntu 16.04</a> 
+- <a href="http://wiki.ros.org/kinetic">ROS Kinetic</a>
+- <a href="http://gazebosim.org/">Gazebo 7</a>
+- <a href="https://github.com/AutonomyLab/ardrone_autonomy">ArDrone Autonomy ROS Package</a>
+- <a href="https://www.tensorflow.org/install/">TensorFLow 1.1.0 (with GPU)</a>
 - Python: 2.7
 
 **Reference:**  <a href="https://arxiv.org/abs/1801.05086">Pham, H.X., La, H.M., Feil-Seifer, D. and Nguyen, L.V., 2018. Autonomous UAV Navigation Using Reinforcement Learning.</a>
