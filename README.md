@@ -24,7 +24,7 @@ This project was developed at the <b>Advanced Flight Simulation(AFS) Labarotory,
 - Pham, Huy X., et al. <b><a href="https://arxiv.org/abs/1801.05086">Autonomous uav navigation using reinforcement learning.</a></b> arXiv preprint arXiv:1801.05086 (2018).
 - Mnih, Volodymyr, et al. <a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf"><b>Human-level control through deep reinforcement learning.</b></a> Nature 518.7540 (2015)
 
-**Project Video: https://goo.gl/zKNQdW**
+**<a href="https://goo.gl/zKNQdW">Project Video</a>**
 
 ## DDPG.py 
 Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is applicable for continuous action-space domain. (Work in Progress)
