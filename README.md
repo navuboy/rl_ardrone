@@ -7,7 +7,7 @@ Autonomous Navigation of UAV using Q-Learning (Reinforcement Learning).
 
 Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on PID+Q-Learning algorithm (Reinforcement Learning). The quadrotor maneuvers towards the goal point, along the uniform grid distribution in the simulation environment(discrete action space) based on the specified reward policy, backed by the simple position based PID controller.
 
-This project was developed at the <b>Advanced Flight Simulation(AFS) Labarotory, IISc, Bangalore</b>.
+This project was developed at the <a href="https://sites.google.com/site/compintellab/home/uavla"><b>Advanced Flight Simulation(AFS) Labarotory, IISc, Bangalore</b></a>.
 <p align= "center">
 <img src="drone_qlearning.gif/">
 </p>
