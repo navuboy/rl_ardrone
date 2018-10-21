@@ -13,13 +13,13 @@ This project was developed at the <a href="https://sites.google.com/site/compint
 </p>
 
 ### Prerequisites:
-- <a href="http://releases.ubuntu.com/16.04/">Ubuntu 16.04</a> 
-- <a href="http://wiki.ros.org/kinetic">ROS Kinetic</a>
-- <a href="http://gazebosim.org/">Gazebo 7</a>
-- <a href="https://github.com/AutonomyLab/ardrone_autonomy">ArDrone Autonomy ROS Package</a>
-- <a href="https://gym.openai.com/docs/">gym: 0.9.3</a>
-- <a href="https://www.tensorflow.org/install/">TensorFLow 1.1.0 (preferrable with GPU)</a>
-- Python: 2.7
+- <b><a href="http://releases.ubuntu.com/16.04/">Ubuntu 16.04</a></b> 
+- <b><a href="http://wiki.ros.org/kinetic">ROS Kinetic</a></b>
+- <b><a href="http://gazebosim.org/">Gazebo 7</a></b>
+- <b><a href="https://github.com/AutonomyLab/ardrone_autonomy">ArDrone Autonomy ROS Package</a></b>
+- <b><a href="https://gym.openai.com/docs/">gym: 0.9.3</a></b>
+- <b><a href="https://www.tensorflow.org/install/">TensorFLow 1.1.0 (preferrable with GPU)</a></b>
+- <b>Python: 2.7</b>
 
 ### Reference:  
 - Pham, Huy X., et al. <b><a href="https://arxiv.org/abs/1801.05086">Autonomous uav navigation using reinforcement learning.</a></b> arXiv preprint arXiv:1801.05086 (2018).
