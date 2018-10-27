@@ -12,7 +12,7 @@ This project was developed at the <a href="https://sites.google.com/site/compint
 <img src="drone_qlearning.gif/">
 </p>
 
-### Prerequisites:
+### Dependencies & Packages:
 - <b><a href="http://releases.ubuntu.com/16.04/">Ubuntu 16.04</a></b> 
 - <b><a href="http://wiki.ros.org/kinetic">ROS Kinetic</a></b>
 - <b><a href="http://gazebosim.org/">Gazebo 7</a></b>
