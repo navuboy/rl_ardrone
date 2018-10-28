@@ -10,7 +10,7 @@ Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on
 
 This project was developed at the <a href="https://sites.google.com/site/compintellab/home/uavla"><b>Advanced Flight Simulation(AFS) Labarotory, IISc, Bangalore</b></a>.
 <p align= "center">
-<img src="drone_qlearning.gif/">
+<img src="Q-Learning/drone_qlearning.gif/">
 </p>
 
 ### Dependencies & Packages:
