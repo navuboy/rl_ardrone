@@ -1,5 +1,5 @@
 # Reinforcement Learning for Autonomous navigation of UAV's
-This repository contains the simulation source code for implementing reinforcement learning aglorithms for autonomous navigation of ardone in indoor environments. Gazebo is the simulated environment that is used here.
+This repository contains the <b>simulation source code</b> for implementing reinforcement learning aglorithms for autonomous navigation of ardone in indoor environments. <b>Gazebo</b> is the simulated environment that is used here.
 ## Q-Learning.py
 Autonomous Navigation of UAV using Q-Learning (Reinforcement Learning). 
 - State: <b>Discrete</b>
