@@ -1,3 +1,6 @@
+#Implementation of Deep Deterministic Policy Gradient for autonomous navigation of ArDrone
+#for continuos action space domain
+
 import numpy as np
 import tensorflow as tf
 import gym
