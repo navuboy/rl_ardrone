@@ -19,7 +19,7 @@ This project was developed at the <a href="https://sites.google.com/site/compint
 - <b><a href="http://gazebosim.org/">Gazebo 7</a></b>
 - <b><a href="https://github.com/AutonomyLab/ardrone_autonomy">ArDrone Autonomy ROS Package</a></b>
 - <b><a href="https://gym.openai.com/docs/">gym: 0.9.3</a></b>
-- <b><a href="https://www.tensorflow.org/install/">TensorFLow 1.1.0 (preferrable with GPU)</a></b>
+- <b><a href="https://www.tensorflow.org/install/">TensorFLow 1.1.0 (preferrable with GPU support)</a></b>
 - <b>Python: 2.7</b>
 
 ### Reference:  
