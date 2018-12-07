@@ -29,7 +29,7 @@ This project was developed at the <a href="https://sites.google.com/site/compint
 **<a href="https://goo.gl/zKNQdW">Project Video</a>**
 
 ## DDPG.py 
-Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is applicable for continuous action-space domain. (Work in Progress)
+Deep Deterministic Policy Gradient algorithm is used for autonomous navigation of UAV from start to goal position. This is applicable for continuous action-space domain. (Under development!)
 
 ### Collaborator(s):
 **<a href="https://github.com/ioarun">Arun Kumar</a>** (arunkumar12@iisc.ac.in) & **<a href="http://www.aero.iisc.ernet.in/people/s-n-omkar/">Dr. S N Omkar</a>** (omkar@iisc.ac.in)
